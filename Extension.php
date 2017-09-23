@@ -10,7 +10,7 @@ class Extension extends ExtensionBase
      * Define details about extension
      * @return array
      */
-    public function getDetails()
+    public function details()
     {
         return [
             'name'        => 'Google Sitemap Multilanguage',
