@@ -1,0 +1,11 @@
+{
+  "name": "copona/google-sitemap-multilanguage",
+  "type": "copona-extension",
+  "description": "Copona extension example",
+  "keywords": [
+    "copona",
+    "extension"
+  ],
+  "homepage": "https://github.com/copona/google-sitemap-multilanguage",
+  "license": "MIT"
+}
