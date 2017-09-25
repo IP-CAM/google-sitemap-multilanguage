@@ -1,6 +1,6 @@
 <?php
 
-namespace Extension\Kallef\GoogleSitemapMultilanguage;
+namespace Extension\Copona\GoogleSitemapMultilanguage;
 
 use Copona\System\Library\Extension\ExtensionBase;
 
